@@ -6,6 +6,10 @@ body{
     font-family: 'Bellefair', serif;
 }
 
+.title-line{
+    font-size: 7rem;
+}
+
 .oreo-words{
     padding: 7rem 0 7rem 0;
 
@@ -41,7 +45,7 @@ body{
 }
 
 .crests{
-    padding: 10rem 0 45rem 0; 
+    padding: 10rem 0 15rem 0; 
     background-color: rgba(30, 42, 61, .7);
     color: white;
 }
@@ -51,9 +55,9 @@ body{
     padding: 0 0 0 20rem;
 }
 
-.gif{
+/* .gif{
     min-height: 35rem;
-}
+} */
 
 .next-to-gif{
      color:white;
